@@ -1,1 +1,1 @@
-# OPTIMIZING-HEALTHCARE-RESOURCE-ALLOCATION-USING-DATA-DRIVEN-PREDICTIVE-ANALYTICS-AND-
+Optimizing healthcare resources with data-driven predictive analytics and outcome modeling
